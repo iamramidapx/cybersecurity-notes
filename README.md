@@ -1,2 +1,2 @@
 # cybersecurity-notes
-Become a Cyber Security Specialist - Go from a beginnerin.
+My learning journey from Microbiology to Cybersecurity
