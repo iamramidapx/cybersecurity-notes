@@ -181,4 +181,4 @@ Automatically assigns dynamic IP addresses to devices on a network using a four-
 
 ---
 
-*Last updated: 2026 | Next module: Protocols & Security*
+*Last updated: 2026 | Next module: Foundations of Cybersecurity
