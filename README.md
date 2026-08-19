@@ -1,2 +1,2 @@
 # cybersecurity-notes
-From microbiology to cybersecurity — notes from my Google Cybersecurity Certificate journey.
+From microbiology to cybersecurity — notes from Google's Cybersecurity Certificate and TryHackMe's Pre Security path.
