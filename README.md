@@ -1,2 +1,2 @@
 # cybersecurity-notes
-My learning journey from Microbiology to Cybersecurity
+From microbiology to cybersecurity — notes from my Google Cybersecurity Certificate journey.
