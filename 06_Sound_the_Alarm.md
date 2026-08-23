@@ -63,8 +63,6 @@ Tool(s) used:
   When did the incident occur?
   Where did the incident happen?
   Why did the incident happen?
-
-Additional notes:
   
 ```
 
